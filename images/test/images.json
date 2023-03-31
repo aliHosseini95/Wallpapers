@@ -1,10 +1,10 @@
 [
  {
-   "Thumb": "Thumb1",
-   "Original": "Original1"
+   "thumbnail": "Thumb1",
+   "original": "Original1"
  },
  {
-   "Thumb": "Thumb2",
-   "Original": "Original2"
+   "thumbnail": "Thumb2",
+   "original": "Original2"
  }
 ]
